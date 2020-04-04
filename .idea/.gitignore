@@ -1,2 +1,23 @@
 # Default ignored files
 /workspace.xml
+/vcs.xml
+/../Challenge/Challenge.iml
+/codeStyles/codeStyleConfig.xml
+/compiler.xml
+/leetcode/editor.xml
+/../Challenge/target/classes/dayTwo/HappyNumber.class
+/../Challenge/target/test-classes/dayTwo/HappyNumberTest.class
+/Leetcode-30-day-challenge.iml
+/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml
+/libraries/Maven__org_junit_jupiter_junit_jupiter_5_6_1.xml
+/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_6_1.xml
+/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_6_1.xml
+/libraries/Maven__org_junit_jupiter_junit_jupiter_params_5_6_1.xml
+/libraries/Maven__org_junit_platform_junit_platform_commons_1_6_1.xml
+/libraries/Maven__org_junit_platform_junit_platform_engine_1_6_1.xml
+/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml
+/misc.xml
+/modules.xml
+/codeStyles/Project.xml
+/../Challenge/target/classes/dayOne/SingleNumber.class
+/../Challenge/target/test-classes/dayOne/SingleNumberTest.class
